@@ -1,0 +1,42 @@
+_repo: The-Ego-and-His-Own_34580
+_version: 0.1.0
+alternative_title: Der Einzige und sein Eigentum. English
+contributor:
+  translator:
+    agent_name: Byington, Steven T. (Steven Tracy)
+    alias: Byington, Steven Tracy
+    birthdate: 1868
+    deathdate: 1957
+    gutenberg_agent_id: '37097'
+    url: http://www.gutenberg.org/2009/agents/37097
+    wikipedia: http://en.wikipedia.org/wiki/Steven_T._Byington
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stirner, Max
+    aliases:
+    - Schmidt, Johann Caspar
+    - Schmidt, Johann Kaspar
+    - Shtirner, Maks
+    birthdate: 1806
+    deathdate: 1856
+    gutenberg_agent_id: '37096'
+    url: http://www.gutenberg.org/2009/agents/37096
+    wikipedia: http://en.wikipedia.org/wiki/Max_Stirner
+description: ''
+gutenberg_issued: '2010-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HM'
+- !lcsh 'Individualism'
+- !lcsh 'Egoism'
+title: The Ego and His Own
+url: http://www.gutenberg.org/ebooks/34580
