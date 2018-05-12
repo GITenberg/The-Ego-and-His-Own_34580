@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37096
     wikipedia: http://en.wikipedia.org/wiki/Max_Stirner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34580#The-Ego-and-His-Own
 gutenberg_issued: '2010-12-05'
 gutenberg_type: Text
 identifiers:
